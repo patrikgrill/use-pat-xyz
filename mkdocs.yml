@@ -1,10 +1,19 @@
-site_name: use pat.xyz
-site_description: 'use pat.xyz'
-site_author: 'pat.xyz'
+site_name: '[use.pat.xyz]'
 docs_dir: docs/
-repo_name: 'patrikgrill/use-pat-xyz'
-repo_url: 'https://github.com/patrikgrill/use-pat-xyz'
 nav:
-    - Home: index.md
+    - Commands: index.md
 theme:
   name: 'material'
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+repo_url: 'https://github.com/patrikgrill/use-pat-xyz'
+site_url: https://use.pat.xyz
+plugins:
+  - search
