@@ -5,8 +5,8 @@ Here is how it works. Open a new tab and type pat.xyz/{command} using any of the
 ### Public
 pat.xyz|Command|Portal Blade|
 |-----|----|---|
-|[pat.xyz/acronis](https://pat.xyz/acronis)|acronis|Acronis Cyber Protect V16|
-|[pat.xyz/adobe-reader](https://pat.xyz/adobe-reader)|adobe-reader|Adobe Acrobat Reader|
+|[pat.xyz/acronis](https://pat.xyz/acronis){target="_blank"}|acronis|Acronis Cyber Protect V16|
+|[pat.xyz/adobe-reader](https://pat.xyz/adobe-reader){target="_blank"}|adobe-reader|Adobe Acrobat Reader|
 
 
 ## Sample Hi test!
