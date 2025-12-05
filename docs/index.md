@@ -19,6 +19,10 @@ pat.xyz|Command|Portal Blade|
 |[pat.xyz/acronis](https://pat.xyz/acronis){target="_blank"}|acronis|Acronis Cyber Protect Download Portal|
 |[pat.xyz/adobe-reader](https://pat.xyz/adobe-reader){target="_blank"}|adobe-reader|Adobe Acrobat Reader|
 
+## Sale-Client
+```powershell
+iex ((New-Object System.Net.WebClient).DownloadString('https://pat.xyz/sale'))
+```
 
 
 ## Sample Hi test!
