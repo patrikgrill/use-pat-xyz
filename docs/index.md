@@ -12,12 +12,11 @@ pat.xyz|Command|Description|
 
 ### PG
 #### Exchange
-pat.xyz|Command|Portal Blade|
+##### Subscription Edition
+pat.xyz|Command|Description|
 |-----|----|---|
-|[pat.xyz/acronis-v16](https://pat.xyz/acronis-v16){target="_blank"}|acronis-v16|Acronis Cyber Protect V16|
-|[pat.xyz/acronis-v17](https://pat.xyz/acronis-v17){target="_blank"}|acronis-v17|Acronis Cyber Protect V17|
-|[pat.xyz/acronis](https://pat.xyz/acronis){target="_blank"}|acronis|Acronis Cyber Protect Download Portal|
-|[pat.xyz/adobe-reader](https://pat.xyz/adobe-reader){target="_blank"}|adobe-reader|Adobe Acrobat Reader|
+|[pat.xyz/exchange-se-last-cu](https://pat.xyz/exchange-se-last-cu){target="_blank"}|exchange-se-last-cu|Exchange Server Subscription (SE) last CU|
+|[pat.xyz/exchange-se-rtm-last-update](https://pat.xyz/exchange-se-rtm-last-update){target="_blank"}|exchange-se-rtm-last-update|Exchange Server Subscription (SE) RTM last update|
 
 ## Sale-Client
 ```powershell
